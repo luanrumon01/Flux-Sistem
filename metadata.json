@@ -1,0 +1,6 @@
+{
+  "name": "Flux CRM",
+  "description": "Um CRM completo, moderno e interativo para gerenciamento de leads, pipeline Kanban estruturado e geração de propostas com inteligência artificial Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
